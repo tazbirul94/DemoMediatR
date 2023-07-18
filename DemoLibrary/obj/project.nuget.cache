@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "abOrs6m+D5ch0/M68XvHnaA8B6d4nH0HcskIqF2rAdH6aHKmq7Ih8JgH8IQacN/hQeYsETxrwVvcrL38nNtCeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tazbi\\Downloads\\Programming\\c sharp\\MediarTDemo\\DemoLibrary\\DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tazbi\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\tazbi\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\tazbi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
